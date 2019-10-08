@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0414a6efa204136bf43e38debbfdc074",
+    "revision": "d71ecb7f578df0ba5986fbc75c75ba54",
     "url": "/pitcher/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pitcher/static/js/2.0c55164d.chunk.js"
   },
   {
-    "revision": "a412fa7f76eb53957c97",
-    "url": "/pitcher/static/js/main.1caa5b82.chunk.js"
+    "revision": "198db60a2238d54fb77f",
+    "url": "/pitcher/static/js/main.edc2e20d.chunk.js"
   },
   {
     "revision": "3e9af0616270cc174921",
