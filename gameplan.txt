@@ -1,0 +1,2 @@
+1: get all clusters and markers to display and zoom correctly
+2: build landing component
