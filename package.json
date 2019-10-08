@@ -2,7 +2,7 @@
   "name": "pitcher",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://unexpectedtokens.github.io/pitcher/ ",
+  "homepage": "https://unexpectedtokens.github.io/pitcher/",
   "dependencies": {
     "mapbox-gl": "^1.4.0",
     "react": "^16.10.1",
