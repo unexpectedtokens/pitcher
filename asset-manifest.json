@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/pitcher/static/js/main.1caa5b82.chunk.js",
+    "main.js.map": "/pitcher/static/js/main.1caa5b82.chunk.js.map",
+    "runtime-main.js": "/pitcher/static/js/runtime-main.6359c1c5.js",
+    "runtime-main.js.map": "/pitcher/static/js/runtime-main.6359c1c5.js.map",
+    "static/js/2.0c55164d.chunk.js": "/pitcher/static/js/2.0c55164d.chunk.js",
+    "static/js/2.0c55164d.chunk.js.map": "/pitcher/static/js/2.0c55164d.chunk.js.map",
+    "index.html": "/pitcher/index.html",
+    "precache-manifest.2b8f146c50b67ac77f5c5a3d68b5cc90.js": "/pitcher/precache-manifest.2b8f146c50b67ac77f5c5a3d68b5cc90.js",
+    "service-worker.js": "/pitcher/service-worker.js"
+  }
+}
